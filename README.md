@@ -2,4 +2,5 @@
 An Awesome theme
 
 It looks like this
-https://github.com/rdooley/o-dools/blob/master/screenshot.png
+
+![John judges. Eternally](https://github.com/rdooley/o-dools/blob/master/screenshot.png)
